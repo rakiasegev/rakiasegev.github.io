@@ -1,10 +1,9 @@
-##General
+## General
 Author: Rakia Segev
 
 Description: This is my personal website
 
-
-##Credit
+## Sources/Credit: 
 
 I've used the following resources as listed.
 
